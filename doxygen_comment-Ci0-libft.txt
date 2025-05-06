@@ -7,7 +7,7 @@
 
 /**
  * @brief , cf.
- *        [](https://man7.org/linux/man-pages/man3/ .html)
+ *        [](https://man7.org/linux/man-pages/man3/ .html).
  * @note 
  * @param[in] 
  * @param[out]
