@@ -1,0 +1,21 @@
+/**
+ * @file 
+ * @brief Stores the definition of 
+ */
+
+#include "libft.h"
+
+/**
+ * @brief 
+ *
+ * @note 
+ * @param[in] 
+ * @param[out]
+ * @param[in,out]
+ * @return 
+ *          * 
+ *          * 
+ * @warning **Test Status:** not unit tested,
+ *          indirectly tested via push_swap_project
+ */
+
