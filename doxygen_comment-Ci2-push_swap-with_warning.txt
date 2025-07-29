@@ -3,7 +3,7 @@
  * @brief Stores the definition of 
  */
 
-#include "libft.h"
+#include "push_swap.h"
 
 /**
  * @brief 
