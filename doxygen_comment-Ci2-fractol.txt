@@ -1,0 +1,19 @@
+/**
+ * @file 
+ * @brief Stores the definition of ()
+ */
+
+#include "fractol.h"
+
+/**
+ * @brief 
+ *
+ * @note 
+ * @param[in] 
+ * @param[out]
+ * @param[in,out]
+ * @return 
+ *          * 
+ *          * 
+ */
+
