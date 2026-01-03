@@ -1,0 +1,10 @@
+/**
+ * @file .c
+ * @brief Stores the definition of ()
+ */
+
+#include "philosophers.h"
+
+/**
+ * @brief Prints an error message and returns an error code
+ */
